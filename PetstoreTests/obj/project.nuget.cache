@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Tht8FDUf8Km7sf67TMFSQsHMZk7QfO6Hq2UtJt5EPj4ON3+D/3ILAStXTPC1m2cjuVD4LJNipcoQSRMTOY+6ug==",
+  "dgSpecHash": "drrNmAvHLHI=",
   "success": true,
   "projectFilePath": "/home/wtc/githubb/PetStoreTests/PetstoreTests/PetstoreTests.csproj",
   "expectedPackageFiles": [
@@ -55,7 +55,9 @@
     "/home/wtc/.nuget/packages/system.threading.tasks.extensions/4.0.0/system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "/home/wtc/.nuget/packages/system.xml.readerwriter/4.0.11/system.xml.readerwriter.4.0.11.nupkg.sha512",
     "/home/wtc/.nuget/packages/system.xml.xdocument/4.0.11/system.xml.xdocument.4.0.11.nupkg.sha512",
-    "/home/wtc/.nuget/packages/wethinkcode.qaminimal/0.3.0/wethinkcode.qaminimal.0.3.0.nupkg.sha512"
+    "/home/wtc/.nuget/packages/wethinkcode.qaminimal/0.3.0/wethinkcode.qaminimal.0.3.0.nupkg.sha512",
+    "/home/wtc/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "/home/wtc/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
   ],
   "logs": []
 }
